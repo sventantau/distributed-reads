@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/aub/octopus.git
+  revision: 34768b1a876512449beb2e46537b78dfc2d99abb
+  specs:
+    ar-octopus (0.6.1)
+      activerecord (>= 3.0.0)
+      activesupport (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -115,6 +123,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ar-octopus!
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
