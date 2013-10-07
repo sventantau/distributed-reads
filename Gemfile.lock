@@ -1,10 +1,10 @@
 GIT
-  remote: git://github.com/aub/octopus.git
-  revision: 34768b1a876512449beb2e46537b78dfc2d99abb
+  remote: git://github.com/tchandy/octopus.git
+  revision: eaca867c40e53046b7919c1e8ed8d83b46c220ed
   specs:
-    ar-octopus (0.6.1)
-      activerecord (>= 3.0.0)
-      activesupport (>= 3.0.0)
+    ar-octopus (0.7.0)
+      activerecord (>= 3.2.0)
+      activesupport (>= 3.2.0)
 
 GEM
   remote: https://rubygems.org/
